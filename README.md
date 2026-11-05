@@ -15,7 +15,6 @@ The goal of this project is to use data analysis and visualisation to better und
 - `SQL_queries` - SQL queries used for business analysis
 - `Data_Exploration` - Python analysis
 - `Tableau_visualisation` - interactive dashboard showing regional business performance
-- `README.md` - interactive dashboard showing
 - `License` - MIT License
 
 ## Tools

@@ -1,4 +1,4 @@
-# Superstore Insights - SQL, Python, Tableau
+# Superstore Insights - SQL, Python & Tableau
 
 ### Created by Patrycja Decowska
 ## Data source 

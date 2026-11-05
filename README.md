@@ -76,5 +76,5 @@ I exported data from SQL and  used Tableau for further visualisation. I created 
 - adding interactive filters - charts and KPI cards update automatically when  a region is selected
 - creating KPI cards for Total Sales, Total Profit, Profit Margin and Average Discount
 
-###Business Analysis
+### Business Analysis
  The company should investigate the reasons behind the losses in the Tables, Bookcases and Supplies sub-categories. The company should also review its discount strategy.

@@ -26,10 +26,12 @@ The goal of this project is to use data analysis and visualisation to better und
 ## SQL
 
 **Description**
+
 The cleaned data was transformed into a normalised relational database to reduce data redundancy and improve data integrity.
 I used SQL to analyse sales, profit, customers, shipping methods and regional performance.
 
 **Main Findings**
+
 The Phone sub-category was the highest sales.There  were three not profitable sub-categories - Tables, Bookcases and Supplies.  Consumer customer segment was  the most profitable. The average loss on unprofitable orders was: Technology -142.3613690, Furniture -85.4475077, Office Supplies -63.9650237. However, all three main categories had positive total profit. Texas had the lowest total profit. Standard Class was the most popular shipping method, with the highest number of shipments. The Central region generated the highest profit. NYC had the highest sales from all of the cities in the dataset.
 
 **SQL clauses used in the code** 
@@ -54,9 +56,11 @@ The Phone sub-category was the highest sales.There  were three not profitable su
 ## Python
 
 **Description**
+
 I loaded the dataset into Python and explored basic information, structure and statistics. Then I created a correlation matrix to examine the relationships between the five numerical variables in the dataset.
 
 **Main Findings**
+
 The strongest relationship in the correlation matrix was between discount and profit margin, with a correlation coefficient of -0.86. High discounts are related to lower profit margins.   Higher sales are associated with higher profit, although this is not always the case. Higher discounts can reduce the company's profit.
 
 **Tool**
@@ -70,6 +74,7 @@ The strongest relationship in the correlation matrix was between discount and pr
 ## Tableau Visualization
 
 **Description**
+
 I exported data from SQL and  used Tableau for further visualisation. I created an interactive Tableau dashboard to better understand business performance. The dashboard helps to compare sales performance across regions and states and by shipping mode.  It also allows users to analyse profit across different product categories and sub-categories.
 
 **Tableau Skills**

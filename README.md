@@ -13,7 +13,7 @@ The goal of this project is to use data analysis and visualisation to better und
 - `superstore_normalised_db` - normalised relational database created in SQL
 -`ERD` - schema ERD Diagram showing the database structure
 - `SQL_queries` - SQL queries used for business analysis
--  `Data_Exploration` - Python analysis
+- `Data_Exploration` - Python analysis
 - `Tableau_visualisation` - interactive dashboard showing regional business performance
 - `README.md` - interactive dashboard showing
 - `License` - MIT License
@@ -68,8 +68,8 @@ The strongest relationship in the correlation matrix was between discount and pr
 
 **Python Skills**
 - Loading and handling data
-- cleaning data and performing basic checks
-- creating a correlation matrix, a heatmap
+- Cleaning data and performing basic checks
+- Creating a correlation matrix, a heatmap
 
 ## Tableau Visualization
 
@@ -78,10 +78,10 @@ The strongest relationship in the correlation matrix was between discount and pr
 I exported data from SQL and  used Tableau for further visualisation. I created an interactive Tableau dashboard to better understand business performance. The dashboard helps to compare sales performance across regions and states and by shipping mode.  It also allows users to analyse profit across different product categories and sub-categories.
 
 **Tableau Skills**
-- creating bar charts
-- building a map to visualise business data
-- adding interactive filters - charts and KPI cards update automatically when  a region is selected
-- creating KPI cards for Total Sales, Total Profit, Profit Margin and Average Discount
+- Creating bar charts
+- Building a map to visualise business data
+- Adding interactive filters - charts and KPI cards update automatically when  a region is selected
+- Creating KPI cards for Total Sales, Total Profit, Profit Margin and Average Discount
 
 ## Business Analysis
  The company should investigate the reasons behind the losses in the Tables, Bookcases and Supplies sub-categories. The company should also review its discount strategy.
